@@ -27,7 +27,7 @@ Hozirda **React, TailwindCSS, JavaScript** bo‘yicha o‘qiyapman va loyihalar 
 
 - **Email:** hasanboy.qodirov.web@gmail.com  
 - **Telegram:** [@QodirovDeveloper](https://t.me/QodirovDeveloper)
-- **LinkedIn:** [linkedin.com/in/hasanboy-qodirov](https://linkedin.com/in/hasanboy-qodirov) *(agar bo‘lsa)*
+- **LinkedIn:** [linkedin.com/in/hasanboy-qodirov](www.linkedin.com/in/hasanboy-qodirov-abb73937b)
 
 ---
 
