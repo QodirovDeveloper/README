@@ -1,10 +1,38 @@
-<h1 align="center">Hi 👋, I'm Hasanboy</h1>
-<h3 align="center">A passionate backend developer from Uzbekistan</h3>
+# Hi, I'm Hasanboy 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🚀 Frontend Developer | Future Fullstack Engineer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+Men web texnologiyalar bilan ishlashni yaxshi ko‘raman va zamonaviy, chiroyli UI yaratishga intilaman.  
+Hozirda **React, TailwindCSS, JavaScript** bo‘yicha o‘qiyapman va loyihalar qilayapman.  
 
+---
+
+## 🛠 Tech Stack
+
+- **Languages:** HTML, CSS, JavaScript (ES6+)
+- **Frontend:** React, TailwindCSS, DaisyUI
+- **Tools:** Git, GitHub, VS Code, Figma
+
+---
+
+## 📌 Pinned Projects
+
+- [**My Portfolio Website**](https://github.com/yourusername/portfolio) – Shaxsiy portfolio
+- [**E-Commerce Frontend**](https://github.com/yourusername/ecommerce) – Savdo platformasi UI
+- [**Todo App (React)**](https://github.com/yourusername/todo-app) – Vazifalar boshqaruvi
+
+---
+
+## 📫 Contact Me
+
+- **Email:** hasanboy.qodirov.web@gmail.com  
+- **Telegram:** [@QodirovDeveloper](https://t.me/QodirovDeveloper)
+- **LinkedIn:** [linkedin.com/in/hasanboy-qodirov](https://linkedin.com/in/hasanboy-qodirov) *(agar bo‘lsa)*
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+*"Frontend is not just code, it's creating experiences."*
