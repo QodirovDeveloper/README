@@ -17,7 +17,7 @@ Hozirda **React, TailwindCSS, JavaScript** bo‘yicha o‘qiyapman va loyihalar 
 
 ## 📌 Pinned Projects
 
-- [**My Portfolio Website**](https://github.com/yourusername/portfolio) – Shaxsiy portfolio
+- [**My Portfolio Website**](https://hasanboy-portfolio-uz.netlify.app) – Shaxsiy portfolio
 - [**E-Commerce Frontend**](https://github.com/yourusername/ecommerce) – Savdo platformasi UI
 - [**Todo App (React)**](https://github.com/yourusername/todo-app) – Vazifalar boshqaruvi
 
